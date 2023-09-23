@@ -18,6 +18,7 @@
   "homepage": "https://github.com/KieranCG/SimonMemoryGame#readme",
   "devDependencies": {
     "jest": "^29.7.0",
-    "jest-environment-jsdom": "^29.7.0"
+    "jest-environment-jsdom": "^29.7.0",
+    "ts-node": "^10.9.1"
   }
 }
